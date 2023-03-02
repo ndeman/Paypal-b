@@ -1,5 +1,5 @@
 olivia
-bright
+bri
 fidelis
 paul
 pius
