@@ -1,1 +1,0 @@
-application is ready
